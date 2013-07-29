@@ -2,3 +2,4 @@ get petrol
 insure car
 MOT car
 service
+insure Alan on the car
