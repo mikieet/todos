@@ -3,3 +3,6 @@ insure car
 MOT car
 service
 insure Alan on the car
+Hoover car
+Replace oil
+Check tire pressure
