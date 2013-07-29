@@ -1,4 +1,3 @@
-MOT car
 insure car
 get petrol
 
