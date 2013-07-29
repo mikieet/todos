@@ -1,4 +1,6 @@
-butter x2
 bread
+butter x2
 cheese
-
+chocolate
+eggs
+milk
