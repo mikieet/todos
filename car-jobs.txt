@@ -1,4 +1,4 @@
 get petrol
 insure car
-service
 MOT car
+service
